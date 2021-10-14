@@ -1,0 +1,1 @@
+This is Blazej's first git project!
